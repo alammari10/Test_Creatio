@@ -3,6 +3,9 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty form page" />
+			<Item Name="LocalizableStrings.addRecord_9wvjdmm_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_nymclj0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_tmur4wj_caption.Value" Value="Add new" />
 		</Items>
 	</Group>
 </Resources>
